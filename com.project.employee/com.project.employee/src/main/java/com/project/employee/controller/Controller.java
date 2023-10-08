@@ -14,7 +14,7 @@ import com.project.employee.model.Employee;
 import com.project.employee.repository.EmpRepository;
 
 @RestController
-@RequestMapping("/homes")
+@RequestMapping("/homess")
 public class Controller {
 	
 	
